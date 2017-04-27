@@ -1,0 +1,5 @@
+/Users/student/Projects/tac/tac/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/Users/student/Projects/tac/tac/bin/Debug/tac.exe.mdb
+/Users/student/Projects/tac/tac/bin/Debug/tac.exe
+/Users/student/Projects/tac/tac/obj/x86/Debug/tac.exe
+/Users/student/Projects/tac/tac/obj/x86/Debug/tac.exe.mdb

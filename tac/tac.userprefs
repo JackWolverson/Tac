@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{476621DB-32CC-4F17-8FAE-B31AEC7AC03F}|Default">
+  <MonoDevelop.Ide.ItemProperties.tac PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../euclid/euclid/Program.fs">
+    <Files>
+      <File FileName="tac/Program.fs" Line="22" Column="5" />
+      <File FileName="../wc/wc/Program.fs" Line="8" Column="1" />
+      <File FileName="../euclid/euclid/Program.fs" Line="3" Column="1" />
+      <File FileName="../Dice.Roller/Dice.Roller/Program.fs" Line="13" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
